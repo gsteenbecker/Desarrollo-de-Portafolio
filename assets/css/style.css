@@ -5,7 +5,7 @@ body{
         color: white;
         text-align: center;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        margin-top: 30px;
+        margin-top: 20px;
 
     }
 
@@ -16,4 +16,7 @@ body{
     margin-left: 30px;
     margin-top: 40px;
     
+}
+.estudios{
+    margin-top: 40px;
 }
