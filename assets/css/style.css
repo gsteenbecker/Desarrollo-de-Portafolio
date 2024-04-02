@@ -1,0 +1,19 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(65,65,65,1) 100%, rgba(0,0,0,1) 100%, rgba(79,69,148,1) 100%, rgba(0,76,255,1) 100%, rgba(198,198,198,1) 100%); 
+    h1{
+        color: white;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-top: 30px;
+
+    }
+
+}
+.datos_personales{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+    margin-top: 40px;
+    
+}
