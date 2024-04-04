@@ -21,14 +21,24 @@ body{
     margin-top: 40px;
 }
 
-#foto{
-    width: 150px;
-    height: ¿20pxpx;
-    margin-top: 60px;
-    margin-left: 35px;
-    ;
+
+.cv{
+    display: flex;
+    justify-content: left;
+    margin-top: 45px;
+    margin-left: 25px;
+}    
+
+.texto{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 25px;
+    justify-content: center;
     
 }
+
+    
+
 .box { 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 18px; 
