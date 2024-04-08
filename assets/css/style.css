@@ -1,18 +1,24 @@
 body{
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(65,65,65,1) 100%, rgba(0,0,0,1) 100%, rgba(79,69,148,1) 100%, rgba(0,76,255,1) 100%, rgba(198,198,198,1) 100%); 
+    background-image: url(/assets/img/5654986.jpg);
+    
+    
     h1{
-        color: white;
+        color: rgb(0, 0, 0);
         text-align: center;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: "Inter", sans-serif;
         margin-top: 20px;
 
     }
 
+
 }
+
+
+
+    
 .datos_personales{
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    font-family:  "Inter", sans-serif;
     margin-left: 30px;
     margin-top: 40px;
     
@@ -27,11 +33,16 @@ body{
     justify-content: left;
     margin-top: 45px;
     margin-left: 25px;
-}    
+    
+}   
+
+#foto_cv{
+    border-radius: 15px;
+}
 
 .texto{
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    font-family:  "Inter", sans-serif;
     margin-left: 25px;
     justify-content: center;
     
@@ -40,14 +51,32 @@ body{
     
 
 .box { 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:  "Inter", sans-serif;
     font-size: 18px; 
     font-weight: 400;
     color: rgb(0, 0, 0); 
     text-align: center;    
-    background:hsl(337, 8%, 67%);
+    background:hsl(0, 0%, 64%);
     margin-top: 100px;
+    margin-bottom: 25px;
     padding: 15px;
-    
+    border-radius: 15px;
+    }
 
-}
+    .container-fluid{
+        font-family:  "Inter", sans-serif;
+        font-size: 18px;
+        background-color: rgb(146, 146, 146);
+        border-radius: 20px;
+    }
+
+    .info{
+        margin-top: 45px;
+        font-family:  "Inter", sans-serif;
+        color: rgb(0, 0, 0);
+    }
+
+
+    
+    
+    
