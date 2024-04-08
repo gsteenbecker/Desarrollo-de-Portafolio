@@ -75,7 +75,32 @@ body{
         font-family:  "Inter", sans-serif;
         color: rgb(0, 0, 0);
     }
+    #duoc{
+        border-radius: 10px;
+    }
+    #elixir{
+        width: 240px;
+        border-radius: 10px;       
+    }
+    #bulnes{
+        border-radius: 10px;
+    }
+    #fic{
+        border-radius: 10px;
+    }
+    .portafolio{
+        margin-top: 45px;
+        display: flex;
+        justify-content: space-around;
+       
+        padding: 35px;
+        
+        
+        
 
+         
+    }
+    
 
     
     
